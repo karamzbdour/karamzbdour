@@ -41,6 +41,6 @@ Computer Science and Mathematics student at the University of Bath with experien
 ---
 
 ### 📫 Connect With Me
+* **LinkedIn** [Link](www.linkedin.com/in/karam-bdour-694b39373)
 * **Email:** [kzb20@bath.ac.uk](mailto:kzb20@bath.ac.uk)
-* **GitHub:** [Your GitHub Profile URL]
 * **Phone:** +44 7341 610210
