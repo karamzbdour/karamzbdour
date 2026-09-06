@@ -28,7 +28,7 @@ Computer Science and Mathematics student at the University of Bath with experien
 * **Stack:** Next.js, FastAPI, WebSocket API, React Three Fiber, Three.js, PyVista
 * Achieved 60+ FPS real-time interaction with 3D meshes and cut payload transfer times by 70% using a custom binary buffer serialisation engine.
 
-#### 2. [Synthetic 3D Pose Estimation Pipeline for axSpA](https://github.com/your-username/project-repo)
+#### 2. [axSpA-SimIMU](https://github.com/karamzbdour/axspa-simimu)
 > Generative pipeline for clinical assessment and mobility impairment modelling.
 * **Stack:** Python, PyTorch, Weights & Biases (W&B), SMPL
 * Enriched clinical motion capture data by 3x using a GAN to model axial Spondyloarthritis (axSpA) movement constraints.
