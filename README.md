@@ -1,46 +1,54 @@
 # Hi there, I'm Karam 👋
 
-Computer Science and Mathematics student at the University of Bath with experience building full-stack applications, scalable back-ends, and machine learning pipelines for healthcare and education.
+Computer Science and Mathematics student at the University of Bath with experience spanning full-stack platforms, high-performance backends, clinical deep learning, and event-driven cloud architectures.
 
 ---
 
 ### 🔭 About Me
-* 🎓 Studying **BSc (Hons) Computer Science and Mathematics with Professional Placement** at the **University of Bath** (Predicted First Class)
-* 🔬 Researched **Autoencoder-based algorithms** for tactile feedback feature extraction at **Team Bath Prosthetics**
-* 💻 Experience building full-stack platforms, RAG pipelines, event-driven cloud streaming (AWS), and high-performance APIs
-* 🤝 Incoming **PAL (Peer Assisted Learning) Leader & Peer Mentor** at the Bath Computer Science Department
-* 📬 Reach me at: **[kzb20@bath.ac.uk](mailto:kzb20@bath.ac.uk)** • **+44 7341 610210**
+- 🎓 **2nd Year BSc (Hons) Computer Science and Mathematics with Professional Placement** at the **University of Bath** (Year 1: **83.3% | First Class Honours**)
+- 🏆 Pearson Edexcel Outstanding Learner: **Highest Mark in the World** in A-level Mathematics & **Highest Mark in Jordan** in A-level Physics
+- 🔬 **AI Research Member** at **Team Bath Prosthetics**, researching autoencoder architectures for vibrotactile sensory feedback
+- 👨‍🏫 **Peer Assisted Learning (PAL) Leader** (Computer Science) & **Mathematics Peer Tutor** at the University of Bath
+- 💼 Industry experience building production RAG pipelines & multi-model LLM routers (**Shoaib Projects**), commercial full-stack web & desktop platforms (**Divont Chocolate Factory**), and cloud telemetry streaming pipelines (**IEUK**)
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Python, JavaScript / TypeScript, Kotlin, Java, SQL, R, Haskell
-* **Frameworks & Libraries:** React, Next.js, Node.js, Electron, Vite, FastAPI, PyTorch, NumPy, Pandas, React Three Fiber, Three.js, PyVista, Prisma, Drizzle, Pydantic, Zod
-* **Cloud & DevOps:** AWS (Lambda, Kinesis, SNS, Timestream, S3, Glacier), Docker, Vercel, Cloudflare
-* **Databases & Tools:** PostgreSQL, Supabase, MongoDB, Vector Databases, Git/GitHub, Weights & Biases (W&B), Android Studio, REST & WebSocket APIs, RAG
+
+- **Languages:** Python, Java, TypeScript, Kotlin, SQL (PostgreSQL, SQLite), R, Bash, Haskell
+- **Full-Stack & Systems:** Next.js, React, Node.js, FastAPI, Ktor, Electron, React Three Fiber, Three.js, PyVista, Tailwind CSS
+- **AI, Data & Scientific Computing:** PyTorch, Weights & Biases (W&B), Hydra, NumPy, Pandas, Matplotlib, RStudio, scikit-learn
+- **Cloud, DevOps & Testing:** AWS (Lambda, Kinesis, Timestream, S3, Glacier), Docker, Cloudflare, GitHub Actions (CI/CD), Pytest, JUnit
+- **Databases & Tools:** PostgreSQL, SQLite, Supabase, Vector Databases, Git/GitHub, Android Studio, RESTful & WebSocket APIs
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [LinAlg Made Easy](https://github.com/karamzbdour/lin-alg-made-easy)
-> Interactive 3D linear algebra visualisation platform.
-* **Stack:** Next.js, FastAPI, WebSocket API, React Three Fiber, Three.js, PyVista
-* Achieved 60+ FPS real-time interaction with 3D meshes and cut payload transfer times by 70% using a custom binary buffer serialisation engine.
+#### 1. [LinAlgMadeEasy](https://github.com/karamzbdour/lin-alg-made-easy)
+> Interactive 3D linear algebra and scientific visualisation platform.
+- **Stack:** Python, FastAPI, Next.js, WebSocket API, React Three Fiber, Three.js, PyVista, Pytest
+- Achieved 60+ FPS real-time interaction for 10k+ vertex meshes by building a custom binary buffer serialisation engine, cutting transfer payloads by 79% compared to JSON.
+- Built an automated Pytest test suite integrated into CI to catch regression edge cases prior to deployment.
 
 #### 2. [axSpA-SimIMU](https://github.com/karamzbdour/axspa-simimu)
-> Generative pipeline for clinical assessment and mobility impairment modelling.
-* **Stack:** Python, PyTorch, Weights & Biases (W&B), SMPL
-* Enriched clinical motion capture data by 3x using a GAN to model axial Spondyloarthritis (axSpA) movement constraints.
+> Generative clinical modelling pipeline for axial spondyloarthritis mobility impairment.
+- **Stack:** Python, PyTorch, Weights & Biases (W&B), Hydra, NumPy, Matplotlib
+- Engineered a WGAN-GP data augmentation pipeline conditioned on pathology severity to generate biomechanically constrained motion sequences.
+- Built a synthesis layer transforming synthetic kinematic sequences into multi-axis virtual IMU sensor streams for downstream clinical pose evaluation.
+- Evaluated data quality on an open-source model, achieving 74% relative efficacy against a pre-trained counterpart.
 
 #### 3. [DigiFridge](https://github.com/karamzbdour/digifridge)
-> Android computer-vision application for dynamic meal planning and food waste reduction (BathHack 2nd Place).
-* **Stack:** Kotlin, Android Studio, MongoDB, Gemini API
-* Uses computer vision to parse receipt data into NoSQL storage and dynamically prioritises meal plans around estimated expiration dates.
+> Cross-platform pantry management and food waste reduction application (**BathHack Runner-Up**).
+- **Stack:** Kotlin, Compose Multiplatform (KMP), Ktor, SQLite, JUnit, Gemini API
+- Engineered an offline-first mobile application featuring robust local SQLite relational schema migrations and sub-10ms item lookups.
+- Integrated a multimodal Gemini API pipeline to estimate shelf lives across 50+ food categories and dynamically prioritise consumption schedules.
+- Awarded Runner-Up in the Commercially Viable track of **BathHack** out of 59 competing teams.
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn** [Link](www.linkedin.com/in/karam-bdour-694b39373)
-* **Email:** [kzb20@bath.ac.uk](mailto:kzb20@bath.ac.uk)
-* **Phone:** +44 7341 610210
+- **LinkedIn:** [linkedin.com/in/karam-bdour-694b39373](https://www.linkedin.com/in/karam-bdour-694b39373/)
+- **GitHub:** [github.com/karamzbdour](https://github.com/karamzbdour)
+- **Email:** [kzb20@bath.ac.uk](mailto:kzb20@bath.ac.uk) / [karamzbdour@gmail.com](mailto:karamzbdour@gmail.com)
+- **Phone:** +44 7341 610210
